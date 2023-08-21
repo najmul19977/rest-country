@@ -1,0 +1,10 @@
+.info{
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: bisque;
+    align-items: center;
+}
+.img{
+    width: 150px;
+}
